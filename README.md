@@ -38,3 +38,6 @@ The final part of the talk covered deploying an AI application to Google Cloud R
 └── local-llm-agent/             # Local knowledge-based search agent
 ```
 
+## Free Course - Agentic AI for Software Engineers
+
+If you are interested in learning more about Open Weights models and Agentic AI, you can access a [free preview of my course here](https://my.skillaroo.com.au/app/courses/preview-agentic-ai-for-software-engineers)
